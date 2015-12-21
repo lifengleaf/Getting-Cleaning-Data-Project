@@ -8,4 +8,4 @@ Here are steps to work on this project:
 2. Put [run_analysis.R](https://github.com/lifengleaf/Getting-Cleaning-Data-Project/blob/master/run_analysis.R) in the UCI HAR Dataset folder, then set it as your working directory.
 3. Run source("run_analysis.R"). It will load and process the data, merge the training and test sets, and create a new dataset [tidy_data.txt] (https://github.com/lifengleaf/Getting-Cleaning-Data-Project/blob/master/tidy_data.txt) in your working directory.
 
-You can read more about the data sets and the analysis methods in the code book.
+You can read more about the data sets and the analysis methods in the [code book](https://github.com/lifengleaf/Getting-Cleaning-Data-Project/blob/master/code_book.Rmd).
